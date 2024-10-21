@@ -23,7 +23,6 @@ Method: POST
 URL: http://localhost:8080/user/create
 
 Parameters:
-
 firstName: First name of the user (minimum 2 characters)
 lastName: Last name of the user (minimum 2 characters)
 email: Valid email address (e.g., john.doe@example.com)
